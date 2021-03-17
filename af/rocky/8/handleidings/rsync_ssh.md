@@ -9,7 +9,7 @@ Jy het net die onderstaande nodig om die handleiding te volg.
 * Weet hoe om 'n redigeerder te gebruik in die terminaal. (Ons gebruik _vi_ hier maar jy kan jou gunsteling redigeerder gebruik).
 * Jy gaan root toegang nodig hê, en verkieslik as root by jou terminaal in teken.
 * Publieke en Private SSH sleutelpare.
-* Gemaklik wees om 'n eenvoudige bash script te skryf, asook om vi of jou gunsteling redigeerder te gebruik en weet hoe om die script te kan toets.
+* Gemaklik wees om 'n eenvoudige bash script te skryf, om vi of jou gunsteling redigeerder te gebruik en die script te kan toets.
 * Weet hoe om _crontab_ te gebruik en dan ook die script te outomatiseer.
 
 # Introduksie
